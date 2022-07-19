@@ -1,4 +1,4 @@
-## ReactJS Redux OAuth with Keycloak - New Stack
+
 # react-redux-keycloak
 ReactJS app with redux and Keycloak IDM
 
